@@ -1,0 +1,24 @@
+{
+  "name": "computerDatabase",
+  "version": "1.0.0",
+  "description": "Testing approach with  computer Database applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakashegde1999/computerDatabase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayakashegde1999/computerDatabase/issues"
+  },
+  "homepage": "https://github.com/vinayakashegde1999/computerDatabase#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.5.0",
+    "puppeteer": "^2.1.1"
+  }
+}
